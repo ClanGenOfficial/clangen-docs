@@ -7,6 +7,9 @@ Thank you for your interest in contributing to Clangen's documentation! To make 
 
 ## Build Instructions
 
+> [!IMPORTANT]
+> If you just want to contribute documentation, you don't **have** to do this. Building the documentation just creates a local copy of the documentation website on your computer, which can be useful for previewing your changes, but isn't necessarily required.
+
 ### Using pure Python
 
 1. Install dependencies:
