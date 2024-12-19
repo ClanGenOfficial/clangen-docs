@@ -47,4 +47,4 @@ Thank you for your interest in contributing to Clangen's documentation! To make 
    ```
    docker run -p 8000:80 clangen-docs
    ```
-4. You can access the documentation at http://localhost:8000.
+4. You can access the documentation at http://localhost:8000. Unlike with uv and Python, this site will *not* update when the files in `/docs` are changed. To update the site, you have to close the server, then rebuild the image and run the server again.
