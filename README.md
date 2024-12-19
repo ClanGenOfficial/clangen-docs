@@ -1,6 +1,10 @@
 # Clangen Docs
 This repository contains the documentation for Clangen.
 
+## Contributing
+
+Thank you for your interest in contributing to Clangen's documentation! To make a change in the documentation, you just have to change the corresponding `.md` file in the `/docs` folder. You can also create a new file in the folder and it will automatically create a new page in the documentation.
+
 ## Build Instructions
 
 ### Using pure Python
