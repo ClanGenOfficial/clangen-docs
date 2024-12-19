@@ -16,12 +16,11 @@ Thank you for your interest in contributing to Clangen's documentation! To make 
    ```
    pip install .
    ```
-2. Build documentation:
+2. Build and serve documentation:
    ```
-   python3 -m mkdocs build
+   python3 -m mkdocs serve
    ```
-3. The documentation will be in the `site` directory.
-   * Alternatively, you can run `python3 -m http.server -d site 8000` in order to access the documentation at http://localhost:8000.
+   Running this command will build the documentation and start a local server on your computer. While the server is running, you can access the documentation at http://localhost:8000. The site will update whenever the files in `/docs` are changed.
 
 ### Using uv
 
@@ -31,12 +30,11 @@ Thank you for your interest in contributing to Clangen's documentation! To make 
    uv venv
    uv pip install .
    ```
-3. Build documentation:
+3. Build and serve documentation:
    ```
-   uv run mkdocs build
+   uv run mkdocs serve
    ```
-4. The documentation will be in the `site` directory.
-   * Alternatively, you can run `uv run python3 -m http.server -d site 8000` in order to access the documentation at http://localhost:8000.
+   Running this command will build the documentation and start a local server on your computer. While the server is running, you can access the documentation at http://localhost:8000. The site will update whenever the files in `/docs` are changed.
 
 ### Using Docker
 
