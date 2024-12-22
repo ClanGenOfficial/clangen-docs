@@ -8,7 +8,7 @@ There is a helper Python script in `resources/lang` called `create_new_lang_file
 
 ## Localizing in-game content
 
-Despite the undertaking being much more massive, it requires much less explanation. If you have run `create_new_lang_files.py`, the structure is all good to go. Simply delete the contents of the files and replace it with translated content.
+Despite the undertaking being much more massive, it requires much less explanation. If you have run `create_new_lang_files.py`, the structure is all good to go. Simply delete the contents of the files and replace it with translated content. See the relevant documentation elsewhere for details on how it all works.
 
 !!! caution
     Ensure that you do not leave empty files as the program will not be able to detect that they're empty. If you wish to remove the files entirely, just delete them and ClanGen will backfill anything missing with the fallback language (English). Failure to do so may result in buggy games since there's not enough content to run.
