@@ -106,6 +106,7 @@ Be sure to check out the [Developer Expectations](#developer-expectations) for f
 
 ### Private Testing Creation
 If you have a new feature that you feel needs extensive testing before merging with the main repo then you are welcome to recruit beta testers to assist you.
+
 1. Create a **thread** within the #dev-version-discussion channel. 
 2. Ensure that this thread has a clear title and detailed description. Descriptions should include a link to your branch and detailed expectations of what beta testers should be testing for and how they should relay their feedback.
 3. Ping the beta tester role. If beta testers need tech support in any fashion, encourage them to seek it in the #dev-version-tech-help channel.
