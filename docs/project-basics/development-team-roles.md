@@ -37,7 +37,7 @@
 
     [Expections](#senior-developer-expectations){ .md-button .md-button--primary}
 
-</>
+</div>
 
 
 ## Beta Tester Expectations
