@@ -113,7 +113,7 @@ If you have a new feature that you feel needs extensive testing before merging w
 
 ## Senior Developer expectations
 
-Senior developers are those with write access to the ClanGen GitHub. Nothing can be merged to ClanGen without the approval of a senior developers.
+Senior developers are those with write access to the ClanGen GitHub. Nothing can be merged to ClanGen without the approval of a senior developer.
 
 If a Pull Request is meant to fix an issue, please ensure the following: Check (or have the developer check) whether the bug affects the latest release branch, too. If it does:
 
