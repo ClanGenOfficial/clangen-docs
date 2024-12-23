@@ -119,6 +119,6 @@ If a Pull Request is meant to fix an issue, please ensure the following: Check (
 
 1. Tell the developer to change the target branch of their Pull Request to the latest release branch. For example, release-0.10
 2. Ensure that the Pull Request only contains the bugfixes. New features, pelts, sprites, [...] don't belong in a bugfix; there's some exceptions like the Halloween toggle, but usually we want to make sure that there's no gameplay difference between... let's say v0.10.0 and v0.10.5
-3. You may review and approve as per usual; I'd ask you to refrain from making merges to the release branches though
+3. You may review and approve as per usual; but we'd ask you to refrain from making merges to the release branches
 
 
