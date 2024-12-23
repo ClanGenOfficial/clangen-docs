@@ -10,7 +10,7 @@
 
     Players who help us test the dev version of the game and have been given access to beta tester discord channels after application acceptance. 
 
-    [Expections](#beta-tester-expectations)
+    [Expections](#beta-tester-expectations){ .md-button .md-button--primary}
 
 - __Apprentice Developer__
 
@@ -18,7 +18,7 @@
 
     Developers who have been added to the team via application acceptance, but have not yet contributed to the dev or base game.
 
-    [Expections](#apprentice-developer-expectations)
+    [Expections](#apprentice-developer-expectations){ .md-button .md-button--primary}
 
 - __Developer__
 
@@ -26,7 +26,8 @@
 
     Contributors who have had a PR accepted and intend to continue contributing to the project. 
 
-    [Expections](#developer-expectations)
+    <br><br>
+    [Expections](#developer-expectations){ .md-button .md-button--primary}
 
 - __Senior Developer__
 
@@ -34,9 +35,9 @@
 
     Developers who have contributed signifcantly to the project and have the responsibility of reviewing PRs. These developers are expected to help steer the team and preserve game identity.
 
-    [Expections](#senior-developer-expectations)
+    [Expections](#senior-developer-expectations){ .md-button .md-button--primary}
 
-</div>
+</>
 
 
 ## Beta Tester Expectations
